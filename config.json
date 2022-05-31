@@ -1,9 +1,9 @@
 {
-	"Prefix": "--",
-  	"Client_ID": "914104429211430912",
-  	"Guild_ID": "918611797194465280",
-	"Owner": "849413565487382578",
-  	"Token": "",
+	"Prefix": "?",
+  	"Client_ID": "YOUR BOT ID HERE",
+  	"Guild_ID": "YOUR SERVER ID HERE",
+	"Owner": "YOUR ACCOUNT ID HERE",
+  	"Token": "YOUR BOT TOKEN HERE (If you are using VSCode)",
  	"Emojis": {
     		"Wrong": "❌",
    		"Done": "✅"
