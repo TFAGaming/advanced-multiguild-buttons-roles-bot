@@ -31,4 +31,7 @@
 > For this system, you need to your server members who invited your bot to their servers to **boost** your server, so you can add the premium feature for their server.
 > The command is: `{prefix}premium [add/remove] [guild id]`
 
+#### Updates:
+> All the updates are gonna be changed on this [replit](https://replit.com/@TFA1/Buttons-Roles) project.
+
 ❤️ Thanks for using my projects, big love for y'all!
