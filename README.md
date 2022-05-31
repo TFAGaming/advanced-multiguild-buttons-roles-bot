@@ -14,7 +14,11 @@
 > **Guild ID:**
 >
 > This is not required, this is only required if you are trying to **add** (not **edit**) a slash command. If you are trying to add a slash command, you need this variable and some configurations in the file index.js.
-> 
+>
+> **Owner:**
+>
+> Set there your account ID, so you can use the premium (add/remove) command
+>
 > **Token:**
 > 
 > And yeah, the important thing for a discord bot. You need to provide your bot token there. If you are using VSCode (Visual Studio Code), use this configuration. Else if you are using Repl.it, use the new secret environments (The lock icon at your left of your screen), use the key **TOKEN** and the value is your bot token.
